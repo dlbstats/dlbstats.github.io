@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            DLB
+tagline:          'Regional performance statistics'
+description:      'An archive of DLB performance statistics month on month'
+url:              http://lanyon.getpoole.com
+paginate:         5
+
+author:
+  name:           'Daniel Lovatt'
+  url:            mailto:dan.lovatt@daisylocalbusiness.co.uk
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
