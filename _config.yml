@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            DLB
-tagline:          'Regional performance statistics'
+tagline:          "Primary KPI's"
 description:      'An archive of DLB performance statistics month on month'
 url:              http://lanyon.getpoole.com
 paginate:         5
