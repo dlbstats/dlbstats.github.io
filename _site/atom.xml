@@ -4,7 +4,7 @@
  <title>DLB</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-06-17T09:39:38+01:00</updated>
+ <updated>2014-06-24T11:12:16+01:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Daniel Lovatt</name>
@@ -27,6 +27,24 @@
    <updated>2014-05-01T00:00:00+01:00</updated>
    <id>http://lanyon.getpoole.com/2014/05/01/stats-May</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/table2.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Desk KPI's</title>
+   <link href="http://lanyon.getpoole.com/2014/04/01/stats-May-field/"/>
+   <updated>2014-04-01T00:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/2014/04/01/stats-May-field</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/april-desk.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Field KPI's</title>
+   <link href="http://lanyon.getpoole.com/2014/04/01/stats-May/"/>
+   <updated>2014-04-01T00:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/2014/04/01/stats-May</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/april-field.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
