@@ -4,4 +4,6 @@ title: Desk KPI's
 ---
 
 
-![My helpful screenshot](/assets/table1.png)
+![My helpful screenshot](/assets/KPI-Desk-May.png)
+
+[Enlarge]({{ site.url }}/assets/KPI-Desk-May.png)
