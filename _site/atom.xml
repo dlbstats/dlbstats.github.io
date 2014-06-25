@@ -4,7 +4,7 @@
  <title>DLB</title>
  <link href="http://stats.dlb.company/atom.xml" rel="self"/>
  <link href="http://stats.dlb.company/"/>
- <updated>2014-06-24T15:45:26+01:00</updated>
+ <updated>2014-06-25T13:47:20+01:00</updated>
  <id>http://stats.dlb.company</id>
  <author>
    <name>Daniel Lovatt</name>
@@ -13,21 +13,32 @@
 
  
  <entry>
-   <title>Desk KPI's</title>
-   <link href="http://stats.dlb.company/2014/05/01/stats-May-field/"/>
-   <updated>2014-05-01T00:00:00+01:00</updated>
-   <id>http://stats.dlb.company/2014/05/01/stats-May-field</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-May.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+   <title>Field KPI's</title>
+   <link href="http://stats.dlb.company/2014/06/01/KPI-June-Field/"/>
+   <updated>2014-06-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/06/01/KPI-June-Field</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Field-June.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-May.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Field-June.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Desk KPI's</title>
+   <link href="http://stats.dlb.company/2014/06/01/KPI-June-Desk/"/>
+   <updated>2014-06-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/06/01/KPI-June-Desk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-June.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-June.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Field KPI's</title>
-   <link href="http://stats.dlb.company/2014/05/01/stats-May/"/>
+   <link href="http://stats.dlb.company/2014/05/01/KPI-May-Field/"/>
    <updated>2014-05-01T00:00:00+01:00</updated>
-   <id>http://stats.dlb.company/2014/05/01/stats-May</id>
+   <id>http://stats.dlb.company/2014/05/01/KPI-May-Field</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Field-May.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Field-May.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
@@ -36,23 +47,34 @@
  
  <entry>
    <title>Desk KPI's</title>
-   <link href="http://stats.dlb.company/2014/04/01/stats-May-field/"/>
-   <updated>2014-04-01T00:00:00+01:00</updated>
-   <id>http://stats.dlb.company/2014/04/01/stats-May-field</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-April.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+   <link href="http://stats.dlb.company/2014/05/01/KPI-May-Desk/"/>
+   <updated>2014-05-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/05/01/KPI-May-Desk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-May.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-April.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-May.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Field KPI's</title>
-   <link href="http://stats.dlb.company/2014/04/01/stats-May/"/>
+   <link href="http://stats.dlb.company/2014/04/01/KPI-April-Field/"/>
    <updated>2014-04-01T00:00:00+01:00</updated>
-   <id>http://stats.dlb.company/2014/04/01/stats-May</id>
+   <id>http://stats.dlb.company/2014/04/01/KPI-April-Field</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Field-April.png&quot; alt=&quot;April Field&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Field-April.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Desk KPI's</title>
+   <link href="http://stats.dlb.company/2014/04/01/KPI-April-Desk/"/>
+   <updated>2014-04-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/04/01/KPI-April-Desk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-April.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-April.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
