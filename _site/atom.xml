@@ -4,13 +4,35 @@
  <title>DLB</title>
  <link href="http://stats.dlb.company/atom.xml" rel="self"/>
  <link href="http://stats.dlb.company/"/>
- <updated>2014-09-02T14:59:55+01:00</updated>
+ <updated>2014-09-16T13:55:57+01:00</updated>
  <id>http://stats.dlb.company</id>
  <author>
    <name>Daniel Lovatt</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Field KPI's (Up to 15th September)</title>
+   <link href="http://stats.dlb.company/2014/09/01/KPI-Sept-field/"/>
+   <updated>2014-09-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/09/01/KPI-Sept-field</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Field-Sept.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Field-Sept.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Desk KPI's (Up to 15th September)</title>
+   <link href="http://stats.dlb.company/2014/09/01/KPI-Sept-Desk/"/>
+   <updated>2014-09-01T00:00:00+01:00</updated>
+   <id>http://stats.dlb.company/2014/09/01/KPI-Sept-Desk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KPI-Desk-Sept.png&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stats.dlb.company/assets/KPI-Desk-Sept.png&quot;&gt;Enlarge&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Field KPI's</title>

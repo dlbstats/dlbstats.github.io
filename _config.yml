@@ -10,7 +10,7 @@ title:            DLB
 tagline:          "Primary KPI's"
 description:      'An archive of DLB performance statistics month on month'
 url:              http://stats.dlb.company
-paginate:         15
+paginate:         6
 
 author:
   name:           'Daniel Lovatt'
