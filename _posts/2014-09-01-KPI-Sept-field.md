@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Field KPI's (Up to 15th September)
+title: Field KPI's
 ---
 
 

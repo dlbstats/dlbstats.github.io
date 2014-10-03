@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desk KPI's (Up to 15th September)
+title: Desk KPI's
 ---
 
 
